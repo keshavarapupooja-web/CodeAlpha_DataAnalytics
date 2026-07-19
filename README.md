@@ -1,2 +1,2 @@
-# CodeAlpha_DataAnalytics
-CodeAlpha Data Analytics Internship Project -  Data Visualization using Python.
+# CodeAlpha_Task4_Sentiment Anlysis-DataAnalytics
+CodeAlpha Data Analytics Internship Project - Sentiment Analysis  using Python.
